@@ -1,0 +1,6 @@
+Misión Infinita - Releases
+==========================
+
+Acá se publican los zips de cada versión del audiojuego Misión Infinita.
+El código fuente vive en un repositorio privado aparte.
+Todavía no hay ninguna versión publicada.
